@@ -11,4 +11,4 @@ if key == ord("s"):
 else:
     print("Image not saved")
 
-cv2.destryAllWindows()
+cv2.destroyAllWindows()
